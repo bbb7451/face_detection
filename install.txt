@@ -1,0 +1,6 @@
+sudo dnf groupinstall "Development Tools" -y
+sudo dnf install gcc gcc-c++ make wget bzip2 bzip2-devel zlib-devel xz-devel \
+    libffi-devel bzip2 bzip2-devel sqlite-devel readline-devel tk-devel \
+    gdbm-devel xz-devel -y
+
+sudo dnf install openssl-devel bzip2 bzip2-devel zlib-devel xz-devel libffi-devel -y
