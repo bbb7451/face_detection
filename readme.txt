@@ -6,3 +6,6 @@ source venv/bin/activate
 
 # 3. 가상환경 비활성화
 deactivate
+
+# HTTP key
+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
